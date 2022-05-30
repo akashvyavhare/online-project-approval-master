@@ -1,9 +1,3 @@
 *.pdf
 *.txt
 *.doc
-
-/vendor/
-
-.env
-
-*.log
