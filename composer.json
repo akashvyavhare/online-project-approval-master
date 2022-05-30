@@ -1,0 +1,12 @@
+{
+    "name": "project/online-project-approval",
+    "require": {
+        "devcoder-xyz/php-dotenv": "1.1"
+    },
+    "authors": [
+        {
+            "name": "Uday Kokitkar",
+            "email": "61972002+uday-kokitkar@users.noreply.github.com"
+        }
+    ]
+}
