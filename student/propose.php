@@ -91,6 +91,8 @@
 </html>
 
 <?php
+
+
         if(isset($_POST['propose'])){
             $title= $_POST['title'];
             $batch= $_POST['batch'];
